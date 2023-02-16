@@ -1,2 +1,2 @@
-// Inserts a document in the school collection. // db.createCollection("school")
+//a SCRIPT THAT INSERT S A DOCUMENT IN THE COLLECTION
 db.school.insert({name: "Holberton school"});
