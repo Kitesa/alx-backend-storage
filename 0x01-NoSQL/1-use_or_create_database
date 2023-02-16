@@ -1,2 +1,2 @@
-// Uses or creates a MongoDB database.
+// Ascript used to use or create database named my_db
 use my_db;
